@@ -3,7 +3,7 @@
 
 # སེར་བྱེས་གྲྭ་ཚང་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
-![image alt text](https://raw.githubusercontent.com/bdrc-reader/serajey/master/docs/img/01.png)
+![image alt text](https://raw.githubusercontent.com/bdrc-reader/serajey/master/docs/img/01.PNG)
 
 <br>
 <br>
