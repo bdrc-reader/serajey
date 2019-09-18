@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://bdrc-reader.github.io/serajey/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/serajey/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/serajey/shunglug">གཞུང་ལུགས།</a>  • <span>གསུང་འབུམ་ཁག</span> • <a href="https://bdrc-reader.github.io/serajey/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/serajey/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/serajey/natsok">སྣ་ཚོགས།</a></p>
+  <a href="https://bdrc-reader.github.io/serajey/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/serajey/shadra">བཤད་གྲྭ།</a> • <a href="https://bdrc-reader.github.io/serajey/shunglug">གཞུང་ལུགས།</a>  • <span>གསུང་འབུམ་ཁག</span> • <a href="https://bdrc-reader.github.io/serajey/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/serajey/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/serajey/natsok">སྣ་ཚོགས།</a></p>
 
 
 # སེར་བྱེས་གྲྭ་ཚང་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
